@@ -4,9 +4,7 @@ A modern, responsive **digital product landing page** built with **React** and *
 
 ---
 
-## 🌐 Live Demo
-
-[Click Here to Visit Viveloft](https://viveloft.com)
+[## 🌐 Live Demo](https://vive-loft.vercel.app)
 
 ---
 
